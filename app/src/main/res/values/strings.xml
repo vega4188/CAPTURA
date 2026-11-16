@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Captura</string>
+
+    <string name="settings_title">Captura</string>
+    <string name="settings_subtitle">One-tap shade capture</string>
+
+    <string name="section_privilege_mode">Privilege mode</string>
+    <string name="mode_root">Root</string>
+    <string name="mode_shizuku">Shizuku</string>
+    <string name="btn_apply_permissions">Apply permissions</string>
+    <string name="btn_applying_permissions">Applying…</string>
+
+    <string name="section_capture_defaults">Capture defaults</string>
+    <string name="label_camera_lens">Camera lens</string>
+    <string name="lens_back">Back</string>
+    <string name="lens_front">Front</string>
+    <string name="label_video_quality">Video quality</string>
+    <string name="quality_720p">720p</string>
+    <string name="quality_1080p">1080p</string>
+    <string name="label_show_qs_tile">Show Quick Settings tile</string>
+    <string name="desc_show_qs_tile">Expose one-tap Photo, Video, and Audio tiles in the shade</string>
+
+    <string name="status_mode_ok">Mode OK</string>
+    <string name="status_checking">Checking mode…</string>
+    <string name="status_fallback_prefix">Using runtime permissions fallback:</string>
+
+    <string name="notif_channel_recording">Recording</string>
+    <string name="notif_stop_recording">Stop recording</string>
+
+    <string name="qs_tile_photo">Photo</string>
+    <string name="qs_tile_video">Video</string>
+    <string name="qs_tile_audio">Audio</string>
+    <string name="qs_state_recording">Recording</string>
+    <string name="qs_audio_subtitle">AAC .m4a</string>
+</resources>

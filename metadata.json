@@ -1,0 +1,6 @@
+{
+  "name": "Captura",
+  "description": "One-tap photo, video, and audio capture from the notification shade with no visible UI during capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
