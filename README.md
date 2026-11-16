@@ -63,22 +63,6 @@ The app consists of a single configuration screen:
 | **Video Quality** | Select between **720p** and **1080p** output resolution. |
 | **Quick Settings Tile** | Enable or disable the system Quick Settings tile component. |
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-* Android Studio Hedgehog (2023.1.1) or newer
-* JDK 17
-* Android device running **Android 10 (API 29)** through **Android 14 (API 34)**
-* *(Optional)* **Magisk / KernelSU** (for Root mode) or **Shizuku** installed and running.
-
-### Build & Run
-```bash
-git clone [https://github.com/yourusername/Captura.git](https://github.com/yourusername/Captura.git)
-cd Captura
-./gradlew assembleDebug
-Install the generated APK from app/build/outputs/apk/debug/app-debug.apk.
 
 📁 Storage Paths
 All captured media is indexed immediately by Android's media scanner:
